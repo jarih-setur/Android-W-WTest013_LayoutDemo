@@ -1,0 +1,2 @@
+rootProject.name='WTest013_LayoutDemo'
+include ':app'
